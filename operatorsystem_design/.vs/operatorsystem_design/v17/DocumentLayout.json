@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filefunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|solutionrelative:operatorsystem_design\\filefunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filemanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|solutionrelative:operatorsystem_design\\filemanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processfunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|solutionrelative:operatorsystem_design\\processfunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|solutionrelative:operatorsystem_design\\processmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F4674CC-43DD-4183-A489-9C1078217F06}|operatorsystem_design\\operatorsystem_design.vcxproj|solutionrelative:operatorsystem_design\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "processmanager.h",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processmanager.h",
+              "RelativeDocumentMoniker": "operatorsystem_design\\processmanager.h",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processmanager.h",
+              "RelativeToolTip": "operatorsystem_design\\processmanager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-04T08:53:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "processfunc.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processfunc.cpp",
+              "RelativeDocumentMoniker": "operatorsystem_design\\processfunc.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\processfunc.cpp",
+              "RelativeToolTip": "operatorsystem_design\\processfunc.cpp",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAowO0CAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T08:20:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filefunc.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filefunc.cpp",
+              "RelativeDocumentMoniker": "operatorsystem_design\\filefunc.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filefunc.cpp",
+              "RelativeToolTip": "operatorsystem_design\\filefunc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T04:44:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filemanager.h",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filemanager.h",
+              "RelativeDocumentMoniker": "operatorsystem_design\\filemanager.h",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\filemanager.h",
+              "RelativeToolTip": "operatorsystem_design\\filemanager.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-27T03:33:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\main.cpp",
+              "RelativeDocumentMoniker": "operatorsystem_design\\main.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\\u7A0B\u5E8F\u9879\u76EE\\c\u002B\u002B\\operatorsystem_design\\operatorsystem_design\\main.cpp",
+              "RelativeToolTip": "operatorsystem_design\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T04:47:23.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

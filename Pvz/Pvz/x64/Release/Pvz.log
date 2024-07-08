@@ -1,0 +1,44 @@
+﻿  game_model_func.cpp
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(686,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(685,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(871,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(871,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(900,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(902,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(929,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(929,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(930,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(930,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(950,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(951,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(964,21): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\game_model_func.cpp(1385,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  tools.cpp
+D:\计算机\程序项目\c++\Pvz\Pvz\tools.cpp(94,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(6,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(6,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(11,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(11,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(16,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(16,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(21,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(21,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(25,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(25,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(45,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(50,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\vector2.cpp(50,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Window.cpp
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(44,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(44,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(64,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(64,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(88,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机\程序项目\c++\Pvz\Pvz\Window.cpp(88,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Pvz.vcxproj -> D:\计算机\程序项目\c++\Pvz\x64\Release\Pvz.exe
